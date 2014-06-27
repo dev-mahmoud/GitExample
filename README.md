@@ -1,0 +1,4 @@
+GitExample
+==========
+
+Example of Git
